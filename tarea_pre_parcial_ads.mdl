@@ -804,6 +804,11 @@
 						(object Swimlane "" @22
 						    line_color 	3342489
 						    width      	450)))))))
+			logical_presentations 	(list unit_reference_list))
+		    (object Class_Category "gaaaaaa"
+			quid       	"5D0C646C01A6"
+			exportControl 	"Public"
+			logical_models 	(list unit_reference_list)
 			logical_presentations 	(list unit_reference_list)))
 		logical_presentations 	(list unit_reference_list
 		    (object UseCaseDiagram "Global View of Actors and Use Cases"
@@ -950,7 +955,7 @@
 					supplier   	@24
 					vertices   	(list Points
 					    (909, 1861)
-					    (1200, 1776))
+					    (1090, 1806))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$14" @29
 					Parent_View 	@27
@@ -962,7 +967,7 @@
 					supplier   	@26
 					vertices   	(list Points
 					    (909, 1861)
-					    (729, 1913))
+					    (729, 1916))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$15" @30
 				location   	(901, 1998)
@@ -989,7 +994,7 @@
 					supplier   	@25
 					vertices   	(list Points
 					    (901, 1998)
-					    (1074, 2046))
+					    (1073, 2047))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$17" @32
 					Parent_View 	@30
@@ -1128,7 +1133,7 @@
 					supplier   	@33
 					vertices   	(list Points
 					    (2251, 2182)
-					    (2128, 2125))
+					    (2083, 2106))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$20" @39
 					Parent_View 	@37
@@ -1140,7 +1145,7 @@
 					supplier   	@36
 					vertices   	(list Points
 					    (2251, 2182)
-					    (2421, 2258))
+					    (2420, 2258))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$21" @40
 				location   	(2168, 2288)
@@ -1179,7 +1184,7 @@
 					supplier   	@36
 					vertices   	(list Points
 					    (2168, 2288)
-					    (2421, 2288))
+					    (2420, 2288))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$24" @43
 				location   	(2160, 2426)
@@ -1206,7 +1211,7 @@
 					supplier   	@35
 					vertices   	(list Points
 					    (2160, 2426)
-					    (1900, 2539))
+					    (1900, 2541))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$26" @45
 					Parent_View 	@43
@@ -1218,7 +1223,7 @@
 					supplier   	@36
 					vertices   	(list Points
 					    (2160, 2426)
-					    (2420, 2311))
+					    (2421, 2311))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Use-Case Model::tecnico_lab::Emitir resultado de Examen de Laboratorio" @46
 				location   	(1888, 1584)
@@ -1309,7 +1314,7 @@
 					supplier   	@47
 					vertices   	(list Points
 					    (2199, 1584)
-					    (2404, 1584))
+					    (2403, 1584))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Use-Case Model::archivador::Registrar Historia Clinica" @51
 				location   	(2240, 832)
@@ -1412,7 +1417,7 @@
 					supplier   	@51
 					vertices   	(list Points
 					    (2536, 916)
-					    (2240, 832))
+					    (2348, 861))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$11" @56
 					Parent_View 	@54
@@ -1424,7 +1429,7 @@
 					supplier   	@53
 					vertices   	(list Points
 					    (2536, 916)
-					    (2723, 969))
+					    (2725, 972))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$30" @57
 				location   	(2536, 1046)
@@ -1451,7 +1456,7 @@
 					supplier   	@52
 					vertices   	(list Points
 					    (2536, 1046)
-					    (2348, 1089))
+					    (2348, 1090))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$32" @59
 					Parent_View 	@57
@@ -1463,7 +1468,7 @@
 					supplier   	@53
 					vertices   	(list Points
 					    (2536, 1046)
-					    (2723, 1003))
+					    (2725, 1003))
 					line_style 	0)))
 			    (object ClassView "Class" "Use Case View::Use-Case Model::Actors::SUSALUD" @60
 				ShowCompartmentStereotypes 	TRUE
@@ -1614,7 +1619,7 @@
 					supplier   	@60
 					vertices   	(list Points
 					    (1512, 949)
-					    (1669, 944))
+					    (1668, 944))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$38" @67
 					Parent_View 	@65
@@ -1705,7 +1710,7 @@
 					supplier   	@61
 					vertices   	(list Points
 					    (840, 766)
-					    (1075, 577))
+					    (1096, 561))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$2" @72
 					Parent_View 	@70
@@ -1744,7 +1749,7 @@
 					supplier   	@62
 					vertices   	(list Points
 					    (852, 882)
-					    (959, 835))
+					    (1119, 770))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$5" @75
 					Parent_View 	@73
@@ -1756,7 +1761,7 @@
 					supplier   	@69
 					vertices   	(list Points
 					    (852, 882)
-					    (585, 994))
+					    (585, 995))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$6" @76
 				location   	(872, 1261)
@@ -1783,7 +1788,7 @@
 					supplier   	@63
 					vertices   	(list Points
 					    (872, 1261)
-					    (1165, 1461))
+					    (1160, 1461))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$8" @78
 					Parent_View 	@76
@@ -1822,7 +1827,7 @@
 					supplier   	@64
 					vertices   	(list Points
 					    (861, 990)
-					    (1136, 965))
+					    (1138, 965))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$35" @81
 					Parent_View 	@79
@@ -1861,7 +1866,7 @@
 					supplier   	@68
 					vertices   	(list Points
 					    (861, 1110)
-					    (1136, 1183))
+					    (1138, 1185))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$41" @84
 					Parent_View 	@82
@@ -1873,8 +1878,33 @@
 					supplier   	@69
 					vertices   	(list Points
 					    (861, 1110)
-					    (585, 1037))
-					line_style 	0))))))))
+					    (585, 1036))
+					line_style 	0)))
+			    (object CategoryView "Use Case View::Use-Case Model::gaaaaaa" @85
+				location   	(3088, 240)
+				font       	(object Font
+				    size       	9
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@85
+				    location   	(2944, 156)
+				    fill_color 	13434879
+				    nlines     	2
+				    max_width  	288
+				    justify    	0
+				    label      	"gaaaaaa")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"5D0C646C01A6"
+				width      	300
+				height     	180))))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
 		quid       	"35C6339B029F"
@@ -1888,7 +1918,7 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list
-		    (object CategoryView "Use Case View::Use-Case Model" @85
+		    (object CategoryView "Use Case View::Use-Case Model" @86
 			location   	(384, 880)
 			font       	(object Font
 			    size       	10
@@ -1900,7 +1930,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@85
+			    Parent_View 	@86
 			    location   	(189, 779)
 			    fill_color 	13434879
 			    nlines     	2
@@ -1913,7 +1943,7 @@
 			quidu      	"35B677F4010E"
 			width      	402
 			height     	215)
-		    (object NoteView @86
+		    (object NoteView @87
 			location   	(1040, 560)
 			font       	(object Font
 			    size       	10
@@ -1925,7 +1955,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@86
+			    Parent_View 	@87
 			    location   	(813, 358)
 			    fill_color 	13434879
 			    nlines     	9
@@ -1936,7 +1966,7 @@
 			fill_color 	13434879
 			width      	479
 			height     	416)
-		    (object CategoryView "Use Case View::Business Use-Case Model" @87
+		    (object CategoryView "Use Case View::Business Use-Case Model" @88
 			location   	(384, 320)
 			font       	(object Font
 			    size       	9
@@ -1948,7 +1978,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@87
+			    Parent_View 	@88
 			    location   	(189, 229)
 			    fill_color 	13434879
 			    nlines     	2
@@ -1961,21 +1991,21 @@
 			quidu      	"35B677D701B8"
 			width      	403
 			height     	194)
-		    (object ImportView "" @88
+		    (object ImportView "" @89
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"35C633DA030C"
-			client     	@85
-			supplier   	@87
+			client     	@86
+			supplier   	@88
 			vertices   	(list Points
 			    (384, 718)
 			    (384, 417))
 			line_style 	0)
-		    (object AttachView "" @89
+		    (object AttachView "" @90
 			stereotype 	TRUE
 			line_color 	3342489
-			client     	@88
-			supplier   	@86
+			client     	@89
+			supplier   	@87
 			vertices   	(list Points
 			    (384, 567)
 			    (800, 561))
@@ -2139,9 +2169,9 @@
 					
 					stereotype 	"use-case realization"
 					logical_models 	(list unit_reference_list
-					    (object Mechanism @90
-						logical_models 	(list unit_reference_list))
 					    (object Mechanism @91
+						logical_models 	(list unit_reference_list))
+					    (object Mechanism @92
 						logical_models 	(list unit_reference_list)))
 					logical_presentations 	(list unit_reference_list
 					    (object ClassDiagram "<Use Case Name> -  Realize Dependencies"
@@ -2165,7 +2195,7 @@
 						origin_y   	0
 						items      	(list diagram_item_list))
 					    (object InteractionDiagram "<Use Case Name> -  Basic Flow"
-						mechanism_ref 	@90
+						mechanism_ref 	@91
 						quid       	"35081E3603A2"
 						title      	"<Use Case Name> -  Basic Flow"
 						zoom       	100
@@ -2175,7 +2205,7 @@
 						origin_y   	0
 						items      	(list diagram_item_list))
 					    (object InteractionDiagram "<Use Case Name> -  <Flow Type>"
-						mechanism_ref 	@91
+						mechanism_ref 	@92
 						quid       	"3540A0B901AE"
 						title      	"<Use Case Name> -  <Flow Type>"
 						zoom       	100
@@ -2195,7 +2225,7 @@
 					origin_x   	0
 					origin_y   	0
 					items      	(list diagram_item_list
-					    (object NoteView @92
+					    (object NoteView @93
 						location   	(704, 144)
 						font       	(object Font
 						    size       	9
@@ -2207,7 +2237,7 @@
 						    color      	0
 						    default_color 	TRUE)
 						label      	(object ItemLabel
-						    Parent_View 	@92
+						    Parent_View 	@93
 						    location   	(38, 25)
 						    fill_color 	13434879
 						    nlines     	5
@@ -2221,7 +2251,7 @@
 						fill_color 	13434879
 						width      	1356
 						height     	250)
-					    (object UseCaseView "Logical View::Design Model::Use-Case Realizations::<Use-Case Name>::<Use-Case Name>" @93
+					    (object UseCaseView "Logical View::Design Model::Use-Case Realizations::<Use-Case Name>::<Use-Case Name>" @94
 						location   	(608, 960)
 						font       	(object Font
 						    size       	9
@@ -2233,7 +2263,7 @@
 						    color      	0
 						    default_color 	TRUE)
 						label      	(object ItemLabel
-						    Parent_View 	@93
+						    Parent_View 	@94
 						    location   	(608, 1148)
 						    anchor_loc 	1
 						    nlines     	2
@@ -2241,7 +2271,7 @@
 						    justify    	0
 						    label      	"<Use-Case Name>")
 						stereotype 	(object ItemLabel
-						    Parent_View 	@93
+						    Parent_View 	@94
 						    location   	(608, 1078)
 						    anchor     	10
 						    anchor_loc 	1
@@ -2295,7 +2325,7 @@
 				origin_x   	0
 				origin_y   	0
 				items      	(list diagram_item_list
-				    (object ClassView "Class" "Logical View::Design Model::Process View::<Process Name>" @94
+				    (object ClassView "Class" "Logical View::Design Model::Process View::<Process Name>" @95
 					ShowCompartmentStereotypes 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
@@ -2310,7 +2340,7 @@
 					    color      	0
 					    default_color 	TRUE)
 					label      	(object ItemLabel
-					    Parent_View 	@94
+					    Parent_View 	@95
 					    location   	(122, 436)
 					    fill_color 	13434879
 					    nlines     	1
@@ -2318,7 +2348,7 @@
 					    justify    	0
 					    label      	"<Process Name>")
 					stereotype 	(object ItemLabel
-					    Parent_View 	@94
+					    Parent_View 	@95
 					    location   	(122, 389)
 					    fill_color 	13434879
 					    anchor     	10
@@ -2334,7 +2364,7 @@
 					height     	172
 					annotation 	8
 					autoResize 	TRUE)
-				    (object ClassView "Class" "Logical View::Design Model::Process View::<Thread Name>" @95
+				    (object ClassView "Class" "Logical View::Design Model::Process View::<Thread Name>" @96
 					ShowCompartmentStereotypes 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
@@ -2349,7 +2379,7 @@
 					    color      	0
 					    default_color 	TRUE)
 					label      	(object ItemLabel
-					    Parent_View 	@95
+					    Parent_View 	@96
 					    location   	(740, 436)
 					    fill_color 	13434879
 					    nlines     	1
@@ -2357,7 +2387,7 @@
 					    justify    	0
 					    label      	"<Thread Name>")
 					stereotype 	(object ItemLabel
-					    Parent_View 	@95
+					    Parent_View 	@96
 					    location   	(740, 389)
 					    fill_color 	13434879
 					    anchor     	10
@@ -2373,32 +2403,32 @@
 					height     	172
 					annotation 	8
 					autoResize 	TRUE)
-				    (object AssociationViewNew "$UNNAMED$43" @96
+				    (object AssociationViewNew "$UNNAMED$43" @97
 					location   	(596, 464)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"35DB3E72017C"
 					roleview_list 	(list RoleViews
-					    (object RoleView "$UNNAMED$44" @97
-						Parent_View 	@96
+					    (object RoleView "$UNNAMED$44" @98
+						Parent_View 	@97
 						location   	(-300, 0)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"35DB3E73005A"
-						client     	@96
-						supplier   	@94
+						client     	@97
+						supplier   	@95
 						vertices   	(list Points
 						    (596, 464)
 						    (463, 464))
 						line_style 	0)
-					    (object RoleView "$UNNAMED$45" @98
-						Parent_View 	@96
+					    (object RoleView "$UNNAMED$45" @99
+						Parent_View 	@97
 						location   	(-300, 0)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"35DB3E730096"
-						client     	@96
-						supplier   	@95
+						client     	@97
+						supplier   	@96
 						vertices   	(list Points
 						    (596, 464)
 						    (730, 464))
@@ -2414,7 +2444,7 @@
 			origin_x   	0
 			origin_y   	0
 			items      	(list diagram_item_list
-			    (object NoteView @99
+			    (object NoteView @100
 				location   	(672, 304)
 				font       	(object Font
 				    size       	9
@@ -2426,7 +2456,7 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@99
+				    Parent_View 	@100
 				    location   	(28, 19)
 				    fill_color 	13434879
 				    nlines     	13
@@ -2450,7 +2480,7 @@
 				fill_color 	13434879
 				width      	1313
 				height     	582)
-			    (object NoteView @100
+			    (object NoteView @101
 				location   	(1696, 160)
 				font       	(object Font
 				    size       	9
@@ -2462,7 +2492,7 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@100
+				    Parent_View 	@101
 				    location   	(1358, 29)
 				    fill_color 	13434879
 				    nlines     	5
@@ -2498,7 +2528,7 @@
 			origin_x   	0
 			origin_y   	0
 			items      	(list diagram_item_list
-			    (object NoteView @101
+			    (object NoteView @102
 				location   	(576, 256)
 				font       	(object Font
 				    size       	9
@@ -2510,7 +2540,7 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@101
+				    Parent_View 	@102
 				    location   	(44, 31)
 				    fill_color 	13434879
 				    nlines     	9
@@ -2530,7 +2560,7 @@
 				fill_color 	13434879
 				width      	1088
 				height     	463)
-			    (object NoteView @102
+			    (object NoteView @103
 				location   	(1520, 176)
 				font       	(object Font
 				    size       	9
@@ -2542,7 +2572,7 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@102
+				    Parent_View 	@103
 				    location   	(1182, 45)
 				    fill_color 	13434879
 				    nlines     	5
@@ -2580,7 +2610,7 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list
-		    (object NoteView @103
+		    (object NoteView @104
 			location   	(768, 384)
 			font       	(object Font
 			    size       	9
@@ -2592,7 +2622,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@103
+			    Parent_View 	@104
 			    location   	(121, 96)
 			    fill_color 	13434879
 			    nlines     	14
@@ -2652,7 +2682,7 @@
 			origin_x   	0
 			origin_y   	0
 			items      	(list diagram_item_list
-			    (object NoteView @104
+			    (object NoteView @105
 				location   	(624, 160)
 				font       	(object Font
 				    size       	9
@@ -2664,7 +2694,7 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@104
+				    Parent_View 	@105
 				    location   	(21, 26)
 				    fill_color 	13434879
 				    nlines     	5
@@ -2691,7 +2721,7 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list
-		    (object SubSysView "Component View::Implementation Model" @105
+		    (object SubSysView "Component View::Implementation Model" @106
 			location   	(736, 800)
 			font       	(object Font
 			    size       	9
@@ -2703,7 +2733,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@105
+			    Parent_View 	@106
 			    location   	(552, 713)
 			    fill_color 	13434879
 			    nlines     	2
@@ -2766,7 +2796,7 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list
-		    (object ProcessorView "<processor name>" @106
+		    (object ProcessorView "<processor name>" @107
 			location   	(512, 1056)
 			font       	(object Font
 			    size       	9
@@ -2778,7 +2808,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@106
+			    Parent_View 	@107
 			    location   	(276, 900)
 			    nlines     	2
 			    max_width  	400
@@ -2789,7 +2819,7 @@
 			width      	475
 			height     	381
 			annotation 	3)
-		    (object DeviceView "<device name>" @107
+		    (object DeviceView "<device name>" @108
 			location   	(1040, 1056)
 			font       	(object Font
 			    size       	9
@@ -2801,7 +2831,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@107
+			    Parent_View 	@108
 			    location   	(867, 950)
 			    nlines     	2
 			    max_width  	275
@@ -2812,16 +2842,16 @@
 			width      	350
 			height     	282
 			annotation 	0)
-		    (object ConnectionView "" @108
+		    (object ConnectionView "" @109
 			stereotype 	TRUE
 			quidu      	"34DBBD4B008C"
-			client     	@106
-			supplier   	@107
+			client     	@107
+			supplier   	@108
 			vertices   	(list Points
 			    (718, 1056)
 			    (865, 1056))
 			line_style 	0)
-		    (object NoteView @109
+		    (object NoteView @110
 			location   	(816, 304)
 			font       	(object Font
 			    size       	9
@@ -2833,7 +2863,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@109
+			    Parent_View 	@110
 			    location   	(38, 29)
 			    fill_color 	13434879
 			    nlines     	11
