@@ -814,6 +814,11 @@
 						(object Swimlane "" @23
 						    line_color 	3342489
 						    width      	450)))))))
+			logical_presentations 	(list unit_reference_list))
+		    (object Class_Category "gaaaaaa"
+			quid       	"5D0C646C01A6"
+			exportControl 	"Public"
+			logical_models 	(list unit_reference_list)
 			logical_presentations 	(list unit_reference_list)))
 		logical_presentations 	(list unit_reference_list
 		    (object UseCaseDiagram "Global View of Actors and Use Cases"
@@ -960,7 +965,7 @@
 					supplier   	@25
 					vertices   	(list Points
 					    (909, 1861)
-					    (1200, 1776))
+					    (1090, 1806))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$14" @30
 					Parent_View 	@28
@@ -972,7 +977,7 @@
 					supplier   	@27
 					vertices   	(list Points
 					    (909, 1861)
-					    (729, 1913))
+					    (729, 1916))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$15" @31
 				location   	(901, 1998)
@@ -999,7 +1004,7 @@
 					supplier   	@26
 					vertices   	(list Points
 					    (901, 1998)
-					    (1074, 2046))
+					    (1073, 2047))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$17" @33
 					Parent_View 	@31
@@ -1138,7 +1143,7 @@
 					supplier   	@34
 					vertices   	(list Points
 					    (2251, 2182)
-					    (2128, 2125))
+					    (2083, 2106))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$20" @40
 					Parent_View 	@38
@@ -1150,7 +1155,7 @@
 					supplier   	@37
 					vertices   	(list Points
 					    (2251, 2182)
-					    (2421, 2258))
+					    (2420, 2258))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$21" @41
 				location   	(2168, 2288)
@@ -1189,7 +1194,7 @@
 					supplier   	@37
 					vertices   	(list Points
 					    (2168, 2288)
-					    (2421, 2288))
+					    (2420, 2288))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$24" @44
 				location   	(2160, 2426)
@@ -1216,7 +1221,7 @@
 					supplier   	@36
 					vertices   	(list Points
 					    (2160, 2426)
-					    (1900, 2539))
+					    (1900, 2541))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$26" @46
 					Parent_View 	@44
@@ -1228,7 +1233,7 @@
 					supplier   	@37
 					vertices   	(list Points
 					    (2160, 2426)
-					    (2420, 2311))
+					    (2421, 2311))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Use-Case Model::tecnico_lab::Emitir resultado de Examen de Laboratorio" @47
 				location   	(1888, 1584)
@@ -1319,7 +1324,7 @@
 					supplier   	@48
 					vertices   	(list Points
 					    (2199, 1584)
-					    (2404, 1584))
+					    (2403, 1584))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Use-Case Model::archivador::Registrar Historia Clinica" @52
 				location   	(2240, 832)
@@ -1422,7 +1427,7 @@
 					supplier   	@52
 					vertices   	(list Points
 					    (2536, 916)
-					    (2240, 832))
+					    (2348, 861))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$11" @57
 					Parent_View 	@55
@@ -1434,7 +1439,7 @@
 					supplier   	@54
 					vertices   	(list Points
 					    (2536, 916)
-					    (2723, 969))
+					    (2725, 972))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$30" @58
 				location   	(2536, 1046)
@@ -1461,7 +1466,7 @@
 					supplier   	@53
 					vertices   	(list Points
 					    (2536, 1046)
-					    (2348, 1089))
+					    (2348, 1090))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$32" @60
 					Parent_View 	@58
@@ -1473,7 +1478,7 @@
 					supplier   	@54
 					vertices   	(list Points
 					    (2536, 1046)
-					    (2723, 1003))
+					    (2725, 1003))
 					line_style 	0)))
 			    (object ClassView "Class" "Use Case View::Use-Case Model::Actors::SUSALUD" @61
 				ShowCompartmentStereotypes 	TRUE
@@ -1624,7 +1629,7 @@
 					supplier   	@61
 					vertices   	(list Points
 					    (1512, 949)
-					    (1669, 944))
+					    (1668, 944))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$38" @68
 					Parent_View 	@66
@@ -1715,7 +1720,7 @@
 					supplier   	@62
 					vertices   	(list Points
 					    (840, 766)
-					    (1075, 577))
+					    (1096, 561))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$2" @73
 					Parent_View 	@71
@@ -1754,7 +1759,7 @@
 					supplier   	@63
 					vertices   	(list Points
 					    (852, 882)
-					    (959, 835))
+					    (1119, 770))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$5" @76
 					Parent_View 	@74
@@ -1766,7 +1771,7 @@
 					supplier   	@70
 					vertices   	(list Points
 					    (852, 882)
-					    (585, 994))
+					    (585, 995))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$6" @77
 				location   	(872, 1261)
@@ -1793,7 +1798,7 @@
 					supplier   	@64
 					vertices   	(list Points
 					    (872, 1261)
-					    (1165, 1461))
+					    (1160, 1461))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$8" @79
 					Parent_View 	@77
@@ -1832,7 +1837,7 @@
 					supplier   	@65
 					vertices   	(list Points
 					    (861, 990)
-					    (1136, 965))
+					    (1138, 965))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$35" @82
 					Parent_View 	@80
@@ -1871,7 +1876,7 @@
 					supplier   	@69
 					vertices   	(list Points
 					    (861, 1110)
-					    (1136, 1183))
+					    (1138, 1185))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$41" @85
 					Parent_View 	@83
@@ -1883,8 +1888,33 @@
 					supplier   	@70
 					vertices   	(list Points
 					    (861, 1110)
-					    (585, 1037))
-					line_style 	0))))))))
+					    (585, 1036))
+					line_style 	0)))
+			    (object CategoryView "Use Case View::Use-Case Model::gaaaaaa" @85
+				location   	(3088, 240)
+				font       	(object Font
+				    size       	9
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@85
+				    location   	(2944, 156)
+				    fill_color 	13434879
+				    nlines     	2
+				    max_width  	288
+				    justify    	0
+				    label      	"gaaaaaa")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"5D0C646C01A6"
+				width      	300
+				height     	180))))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
 		quid       	"35C6339B029F"
